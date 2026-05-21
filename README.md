@@ -11,8 +11,8 @@ Unofficial archive of map tiles and stitched map assets sourced from the officia
 
 | Map | Preview |
 | --- | --- |
-| `map01` | ![map01](./previews/tile-map01.webp) |
-| `map02` | ![map02](./previews/tile-map02.webp) |
+| `map01` | <img src="./previews/tile-map01.webp" height=500> |
+| `map02` | <img src="./previews/tile-map02.webp" height=500> |
 
 ### `tile_1_0`
 
@@ -21,8 +21,8 @@ Unofficial archive of map tiles and stitched map assets sourced from the officia
 
 | Map | Preview |
 | --- | --- |
-| `map01` | ![map01](./previews/tile_1_0-map01.webp) |
-| `map02` | ![map02](./previews/tile_1_0-map02.webp) |
+| `map01` | <img src="./previews/tile_1_0-map01.webp" height=500> |
+| `map02` | <img src="./previews/tile_1_0-map02.webp" height=500> |
 
 ### `tile_1_1`
 
@@ -31,7 +31,16 @@ Unofficial archive of map tiles and stitched map assets sourced from the officia
 
 | Map | Preview |
 | --- | --- |
-| `map02` | ![map02](./previews/tile_1_1-map02.webp) |
+| `map02` | <img src="./previews/tile_1_1-map02.webp" height=500> |
+
+### `tile_1_2`
+
+[`tilesets-tile_1_2.zip`](https://github.com/ziplines/endfield-map-data/releases/download/snapshot-2026-05-22/tilesets-tile_1_2.zip)
+[`maps-tile_1_2.zip`](https://github.com/ziplines/endfield-map-data/releases/download/snapshot-2026-05-22/maps-tile_1_2.zip)
+
+| Map | Preview |
+| --- | --- |
+| `map02` | <img src="./previews/tile_1_2-map02.webp" height=500> |
 
 ### `tile_1_2_1`
 
@@ -40,5 +49,5 @@ Unofficial archive of map tiles and stitched map assets sourced from the officia
 
 | Map | Preview |
 | --- | --- |
-| `map02` | ![map02](./previews/tile_1_2_1-map02.webp) |
+| `map02` | <img src="./previews/tile_1_2_1-map02.webp" height=500> |
 

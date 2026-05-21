@@ -10,6 +10,7 @@ const TAGS = {
 	tile: "snapshot-2026-05-22",
 	tile_1_0: "snapshot-2026-05-22",
 	tile_1_1: "snapshot-2026-05-22",
+	tile_1_2: "snapshot-2026-05-22",
 	tile_1_2_1: "snapshot-2026-05-22"
 }
 
@@ -58,7 +59,7 @@ for (const ver of versions) {
 	sections.push("| --- | --- |")
 
 	for (const preview of previews)
-		sections.push(`| \`${preview.map}\` | ![${preview.map}](./previews/${preview.file}) |`)
+		sections.push(`| \`${preview.map}\` | <img src="./previews/${preview.file}" height=500> |`)
 
 	sections.push("")
 }
