@@ -51,3 +51,12 @@ Unofficial archive of map tiles and stitched map assets sourced from the officia
 | --- | --- |
 | `map02` | <img src="./previews/tile_1_2_1-map02.webp" height=500> |
 
+### `tile_1_3`
+
+[`tilesets-tile_1_3.zip`](https://github.com/ziplines/endfield-map-data/releases/download/snapshot-2026-06-05/tilesets-tile_1_3.zip)
+[`maps-tile_1_3.zip`](https://github.com/ziplines/endfield-map-data/releases/download/snapshot-2026-06-05/maps-tile_1_3.zip)
+
+| Map | Preview |
+| --- | --- |
+| `map02` | <img src="./previews/tile_1_3-map02.webp" height=500> |
+

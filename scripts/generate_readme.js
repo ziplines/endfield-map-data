@@ -11,7 +11,8 @@ const TAGS = {
 	tile_1_0: "snapshot-2026-05-22",
 	tile_1_1: "snapshot-2026-05-22",
 	tile_1_2: "snapshot-2026-05-22",
-	tile_1_2_1: "snapshot-2026-05-22"
+	tile_1_2_1: "snapshot-2026-05-22",
+	tile_1_3: "snapshot-2026-06-05"
 }
 
 const versions = (await fs.readdir(RELEASEDIR, { withFileTypes: true }))
